@@ -1,0 +1,301 @@
+,Location,Size (sqft),Number of Rooms,Amenities,Price
+0,Mumbai,80,4,"Pool, AC, Parking",310000
+1,Pune,56,5,"AC, Garden, Parking",360000
+2,Nashik,143,5,"Garden, Pool",340000
+3,Nashik,77,4,"Garden, AC",290000
+4,Kolhapur,108,2,"AC, Pool, Garden",210000
+5,Kolhapur,53,3,Garden,220000
+6,Pune,176,2,"Gym, Pool, Parking",210000
+7,Nashik,56,3,"Garden, AC",240000
+8,Kolhapur,161,4,"AC, Parking",290000
+9,Nagpur,108,4,Parking,270000
+10,Kolhapur,61,3,"Garden, Parking, AC",260000
+11,Nashik,157,4,"Gym, AC",290000
+12,Nagpur,93,5,"Garden, AC, Pool",360000
+13,Nashik,179,4,"Parking, Garden, AC",310000
+14,Kolhapur,148,3,Pool,220000
+15,Nagpur,187,1,"Parking, AC",140000
+16,Mumbai,83,5,"Gym, Pool",340000
+17,Pune,95,5,"Garden, Gym",340000
+18,Nashik,52,4,Parking,270000
+19,Pune,175,4,"AC, Gym, Parking",310000
+20,Kolhapur,114,1,"AC, Garden, Parking",160000
+21,Kolhapur,176,3,"Pool, Gym",240000
+22,Mumbai,174,2,"Pool, AC",190000
+23,Nagpur,73,2,"AC, Parking, Gym",210000
+24,Kolhapur,136,2,AC,170000
+25,Nashik,132,5,"AC, Gym, Parking",360000
+26,Nagpur,97,1,"AC, Gym",140000
+27,Mumbai,107,2,"Gym, AC",190000
+28,Kolhapur,116,2,Pool,170000
+29,Mumbai,111,2,"Parking, Pool, AC",210000
+30,Nagpur,105,1,"Garden, Pool",140000
+31,Kolhapur,118,2,"Gym, Parking",190000
+32,Pune,153,2,Parking,170000
+33,Nashik,138,3,Gym,220000
+34,Mumbai,156,3,"AC, Pool",240000
+35,Pune,195,5,Pool,320000
+36,Nashik,108,3,Pool,220000
+37,Pune,139,3,Parking,220000
+38,Mumbai,183,4,"Parking, Pool, Garden",310000
+39,Kolhapur,71,3,"Garden, Parking, Gym",260000
+40,Pune,183,1,AC,120000
+41,Pune,144,3,"Gym, AC",240000
+42,Kolhapur,101,4,"Gym, Parking",290000
+43,Nashik,190,3,"Parking, AC",240000
+44,Kolhapur,58,2,"AC, Parking, Pool",210000
+45,Nashik,131,3,Parking,220000
+46,Nashik,87,3,"Gym, Garden",240000
+47,Nashik,103,4,"Garden, Parking",290000
+48,Nagpur,68,1,"Parking, AC, Gym",160000
+49,Nashik,67,1,"AC, Pool",140000
+50,Nagpur,87,2,"Pool, Parking",190000
+51,Pune,195,4,"Gym, AC, Parking",310000
+52,Pune,126,4,"AC, Gym, Pool",310000
+53,Pune,93,4,"Garden, Parking",290000
+54,Nagpur,88,4,"Pool, Garden, Gym",310000
+55,Nashik,178,5,Pool,320000
+56,Pune,143,2,"Gym, Garden, Parking",210000
+57,Mumbai,130,5,AC,320000
+58,Pune,57,5,"Pool, AC",340000
+59,Nagpur,194,1,Parking,120000
+60,Nashik,104,3,AC,220000
+61,Pune,184,2,"Pool, Parking, Gym",210000
+62,Pune,93,5,"Garden, Gym",340000
+63,Pune,107,4,"Gym, Parking, Garden",310000
+64,Kolhapur,176,4,"Gym, Garden",290000
+65,Mumbai,116,5,Garden,320000
+66,Nagpur,125,2,"Gym, Garden, Pool",210000
+67,Pune,50,3,"AC, Garden, Parking",260000
+68,Nashik,73,4,Gym,270000
+69,Nagpur,186,5,"AC, Gym, Pool",360000
+70,Nagpur,66,2,"AC, Parking",190000
+71,Mumbai,172,1,Parking,120000
+72,Pune,61,1,"Garden, Pool",140000
+73,Nashik,97,4,"AC, Parking",290000
+74,Nashik,73,2,"Parking, Pool, Gym",210000
+75,Kolhapur,197,3,"Pool, Parking",240000
+76,Pune,79,3,Gym,220000
+77,Pune,200,3,"Gym, Garden",240000
+78,Kolhapur,146,2,"Gym, Parking",190000
+79,Mumbai,192,3,Parking,220000
+80,Kolhapur,164,2,"AC, Pool",190000
+81,Pune,172,1,Parking,120000
+82,Pune,76,4,"Parking, Gym, Garden",310000
+83,Kolhapur,83,4,Garden,270000
+84,Nashik,130,2,"Garden, Pool",190000
+85,Nagpur,171,2,Pool,170000
+86,Kolhapur,136,2,"Pool, Garden",190000
+87,Nagpur,185,4,Garden,270000
+88,Kolhapur,170,3,"Pool, Garden",240000
+89,Nagpur,56,4,"Gym, Garden, Parking",310000
+90,Nashik,111,2,"Pool, Parking",190000
+91,Pune,195,3,AC,220000
+92,Nashik,156,5,"Garden, Pool",340000
+93,Nashik,168,5,"Parking, AC",340000
+94,Mumbai,185,4,Pool,270000
+95,Kolhapur,107,3,"AC, Parking, Garden",260000
+96,Nashik,195,4,AC,270000
+97,Mumbai,101,2,"Gym, Garden",190000
+98,Nagpur,116,3,"Gym, Garden, Parking",260000
+99,Mumbai,119,2,"Pool, Parking, Gym",210000
+100,Kolhapur,75,5,"Gym, Garden",340000
+101,Kolhapur,180,2,"AC, Garden",190000
+102,Nashik,179,3,"Garden, Gym, Pool",260000
+103,Nashik,110,4,Pool,270000
+104,Mumbai,70,1,"Parking, Gym",140000
+105,Nagpur,87,4,"AC, Pool",290000
+106,Kolhapur,173,1,Parking,120000
+107,Kolhapur,108,1,"Parking, Pool, AC",160000
+108,Mumbai,63,5,"Pool, Garden, Parking",360000
+109,Nashik,156,3,"AC, Pool, Garden",260000
+110,Kolhapur,107,3,"Gym, Garden",240000
+111,Kolhapur,172,1,"Garden, Parking",140000
+112,Nagpur,123,4,"Parking, Garden, Gym",310000
+113,Mumbai,58,4,"Parking, Gym",290000
+114,Mumbai,157,2,Pool,170000
+115,Mumbai,163,2,Gym,170000
+116,Mumbai,149,2,Garden,170000
+117,Kolhapur,109,1,"AC, Pool",140000
+118,Pune,62,4,"Garden, Gym, Parking",310000
+119,Pune,88,4,AC,270000
+120,Mumbai,55,2,"Gym, Parking, Pool",210000
+121,Pune,104,2,"Garden, Gym",190000
+122,Mumbai,111,4,"Pool, Parking",290000
+123,Kolhapur,122,4,"Pool, Parking, AC",310000
+124,Nagpur,189,5,AC,320000
+125,Kolhapur,146,3,Garden,220000
+126,Pune,165,5,"Parking, Pool",340000
+127,Nagpur,50,2,"Gym, Parking, AC",210000
+128,Mumbai,97,2,"Pool, AC, Garden",210000
+129,Pune,71,1,Pool,120000
+130,Pune,60,1,"AC, Garden",140000
+131,Nashik,171,3,"Gym, Parking",240000
+132,Nagpur,63,4,"Gym, Parking",290000
+133,Kolhapur,102,1,"Garden, Parking",140000
+134,Mumbai,112,3,Gym,220000
+135,Nashik,153,4,"Gym, Parking, Garden",310000
+136,Nashik,183,4,"Gym, Parking, Garden",310000
+137,Pune,98,3,Pool,220000
+138,Mumbai,61,2,"AC, Pool, Gym",210000
+139,Nagpur,179,1,"Pool, Gym",140000
+140,Kolhapur,86,5,"Garden, Gym",340000
+141,Nashik,121,3,"AC, Gym, Pool",260000
+142,Nashik,162,1,"Pool, AC, Garden",160000
+143,Pune,186,4,"Parking, AC",290000
+144,Pune,140,2,"Parking, Garden, AC",210000
+145,Kolhapur,86,3,"Garden, Pool, Parking",260000
+146,Nashik,180,1,"Gym, AC, Garden",160000
+147,Mumbai,161,4,Garden,270000
+148,Nashik,132,3,"Garden, AC, Parking",260000
+149,Nashik,103,5,"AC, Pool",340000
+150,Nashik,92,3,"Pool, Parking",240000
+151,Nashik,113,1,Pool,120000
+152,Pune,70,2,"Gym, AC",190000
+153,Kolhapur,60,1,Parking,120000
+154,Kolhapur,101,4,Parking,270000
+155,Mumbai,170,2,"Gym, Parking, AC",210000
+156,Pune,66,2,"Garden, AC, Pool",210000
+157,Kolhapur,69,5,"Pool, Parking, AC",360000
+158,Kolhapur,155,1,"Pool, Parking, Gym",160000
+159,Nashik,134,5,"Garden, AC, Pool",360000
+160,Pune,97,5,Parking,320000
+161,Nashik,60,2,Gym,170000
+162,Pune,120,1,Gym,120000
+163,Nagpur,160,5,"Gym, Parking, Pool",360000
+164,Nagpur,94,5,AC,320000
+165,Pune,124,5,"Pool, Gym, AC",360000
+166,Nashik,96,5,Pool,320000
+167,Nagpur,178,2,"AC, Garden, Parking",210000
+168,Kolhapur,126,2,"AC, Pool",190000
+169,Nashik,143,5,"Pool, Gym",340000
+170,Kolhapur,191,5,Pool,320000
+171,Kolhapur,120,5,"Parking, Pool, Gym",360000
+172,Pune,126,3,Garden,220000
+173,Kolhapur,168,1,"Parking, Pool",140000
+174,Nagpur,176,2,"Pool, Gym",190000
+175,Nagpur,173,2,Parking,170000
+176,Mumbai,131,5,"Garden, Parking",340000
+177,Nagpur,151,4,"AC, Garden",290000
+178,Pune,53,5,"AC, Garden, Gym",360000
+179,Mumbai,167,2,"Garden, Pool, AC",210000
+180,Nagpur,117,1,"Gym, Garden",140000
+181,Nashik,92,5,Gym,320000
+182,Mumbai,199,4,AC,270000
+183,Nagpur,106,1,"Pool, AC",140000
+184,Nashik,140,4,Parking,270000
+185,Nashik,86,2,"Gym, AC",190000
+186,Kolhapur,62,1,"Parking, AC",140000
+187,Mumbai,179,1,"Gym, Pool, Parking",160000
+188,Mumbai,198,5,"Gym, AC, Parking",360000
+189,Pune,55,4,Gym,270000
+190,Kolhapur,87,2,"Parking, Gym, Pool",210000
+191,Mumbai,109,5,"AC, Parking, Pool",360000
+192,Kolhapur,194,1,"Garden, Pool",140000
+193,Nagpur,106,1,"Garden, Gym",140000
+194,Pune,52,2,"Pool, Garden, Gym",210000
+195,Mumbai,94,1,"Garden, Pool, AC",160000
+196,Pune,165,5,Pool,320000
+197,Nashik,132,2,AC,170000
+198,Kolhapur,70,2,"Garden, Pool, Parking",210000
+199,Nagpur,150,4,"Garden, Gym",290000
+200,Nashik,134,3,"Pool, Garden, Gym",260000
+201,Kolhapur,108,1,Parking,120000
+202,Mumbai,166,2,Garden,170000
+203,Kolhapur,92,3,"AC, Pool, Garden",260000
+204,Pune,144,3,"Parking, Gym, AC",260000
+205,Kolhapur,174,4,"AC, Garden, Gym",310000
+206,Nagpur,65,1,"Garden, Gym",140000
+207,Nagpur,59,3,"Pool, Garden, Parking",260000
+208,Nashik,149,5,Parking,320000
+209,Nagpur,113,5,"Garden, Parking",340000
+210,Mumbai,66,5,Parking,320000
+211,Kolhapur,120,5,"Gym, AC, Pool",360000
+212,Pune,178,1,"Garden, Pool, AC",160000
+213,Kolhapur,156,2,"Gym, Parking, AC",210000
+214,Mumbai,184,4,"AC, Parking, Pool",310000
+215,Kolhapur,149,3,"AC, Parking, Gym",260000
+216,Pune,90,3,"Pool, AC, Parking",260000
+217,Pune,105,3,"AC, Gym",240000
+218,Pune,179,5,"Pool, Garden",340000
+219,Pune,193,5,"Parking, Gym",340000
+220,Pune,177,5,"Pool, Parking, AC",360000
+221,Kolhapur,66,1,Garden,120000
+222,Mumbai,81,1,"Pool, Garden, Parking",160000
+223,Mumbai,65,4,Parking,270000
+224,Nagpur,172,2,Gym,170000
+225,Nashik,104,2,"Parking, Garden, Gym",210000
+226,Mumbai,192,3,Gym,220000
+227,Kolhapur,180,2,"AC, Garden",190000
+228,Pune,113,1,"AC, Gym",140000
+229,Pune,114,4,Parking,270000
+230,Mumbai,95,2,"Gym, AC, Parking",210000
+231,Kolhapur,56,1,"Pool, Parking",140000
+232,Nagpur,68,3,"Garden, Gym, Pool",260000
+233,Kolhapur,184,4,Pool,270000
+234,Mumbai,118,3,Pool,220000
+235,Pune,71,3,"Garden, Gym",240000
+236,Kolhapur,187,4,Parking,270000
+237,Nagpur,60,2,Parking,170000
+238,Pune,153,1,"Parking, AC, Pool",160000
+239,Nagpur,144,2,"AC, Pool, Garden",210000
+240,Nashik,154,2,Garden,170000
+241,Mumbai,191,4,"Gym, AC",290000
+242,Kolhapur,160,4,"Gym, Pool",290000
+243,Nashik,80,3,"AC, Pool, Parking",260000
+244,Kolhapur,73,4,"Parking, Pool, Garden",310000
+245,Pune,190,5,"Gym, Garden, AC",360000
+246,Mumbai,121,5,"Parking, Pool, Gym",360000
+247,Mumbai,181,3,Gym,220000
+248,Nashik,161,5,"Garden, Pool, AC",360000
+249,Nagpur,64,1,"Pool, Garden",140000
+250,Pune,55,4,AC,270000
+251,Pune,107,1,"Pool, Parking",140000
+252,Nashik,132,2,"Parking, Gym",190000
+253,Nagpur,136,2,"Pool, AC, Gym",210000
+254,Nashik,72,1,"AC, Pool, Gym",160000
+255,Kolhapur,137,2,"Parking, Pool, Gym",210000
+256,Pune,180,4,"Parking, Gym",290000
+257,Pune,164,1,Garden,120000
+258,Nashik,139,3,"Parking, Garden, Gym",260000
+259,Nashik,116,1,Garden,120000
+260,Mumbai,155,1,Garden,120000
+261,Nashik,180,5,"Garden, Gym, Parking",360000
+262,Kolhapur,61,2,"Parking, AC, Gym",210000
+263,Mumbai,185,5,Pool,320000
+264,Mumbai,51,2,Parking,170000
+265,Pune,163,2,"Garden, Parking",190000
+266,Nashik,114,1,"Gym, Garden, Pool",160000
+267,Nagpur,133,5,Pool,320000
+268,Nashik,122,4,"AC, Pool",290000
+269,Mumbai,88,5,"Gym, Parking",340000
+270,Nashik,143,1,Pool,120000
+271,Mumbai,191,5,"Garden, AC",340000
+272,Mumbai,116,4,"Parking, Pool, AC",310000
+273,Nagpur,113,1,"AC, Garden, Pool",160000
+274,Kolhapur,73,3,"Gym, Garden",240000
+275,Nagpur,72,3,Gym,220000
+276,Pune,164,1,"Parking, Garden, Gym",160000
+277,Kolhapur,110,1,"Garden, Parking",140000
+278,Pune,52,2,"Gym, Parking, Garden",210000
+279,Pune,62,1,Pool,120000
+280,Nashik,168,5,"Parking, Pool, AC",360000
+281,Mumbai,61,2,"AC, Garden",190000
+282,Nashik,92,2,AC,170000
+283,Mumbai,130,3,"Parking, AC, Pool",260000
+284,Mumbai,136,2,"Garden, Pool, Gym",210000
+285,Mumbai,174,4,"Pool, Garden, Parking",310000
+286,Nagpur,150,1,Garden,120000
+287,Nashik,158,3,"AC, Parking",240000
+288,Nashik,139,2,AC,170000
+289,Pune,130,4,"Gym, Pool, AC",310000
+290,Nashik,118,1,Pool,120000
+291,Nashik,135,4,"Gym, Garden",290000
+292,Nagpur,157,4,"Parking, Garden",290000
+293,Kolhapur,171,2,"AC, Gym, Garden",210000
+294,Nagpur,56,2,"Pool, AC, Gym",210000
+295,Kolhapur,69,3,Gym,220000
+296,Nagpur,51,1,"Garden, AC",140000
+297,Mumbai,92,5,"Garden, Gym, Pool",360000
+298,Nagpur,171,5,"Garden, AC",340000
+299,Nagpur,185,2,AC,170000
